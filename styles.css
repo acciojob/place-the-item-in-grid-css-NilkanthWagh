@@ -2,11 +2,9 @@
 /* Your CSS Code here. */
 .holder{
     display: grid;
-    border: 2px solid red;
-	grid-template-columns: repeat(2, 1fr);
-  grid-template-rows: repeat(2, 1fr);
-  width: 200px;
- height:200px;	
+	grid-template-columns: 100px 100px;
+grid-template-rows:100px 100px; 
+ 
    
    
 
